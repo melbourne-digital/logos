@@ -12,8 +12,8 @@ Use the **melbourne.digital** logo to link to Melbourne Digital | Use the **melb
 Use the Mark in social buttons to link to your Melbourne Digital product or project | Create a modified version of the **melbourne.digital** logo
 Use the **melbourne.digital** logo to advertise that your product has built-in Melbourne Digital integration | Integrate the **melbourne.digital** logo into your logo
 Use the **melbourne.digital** logo in a blog post or news article about Melbourne Digital | Use any **melbourne.digital** artwork without permission
- | Sell any **melbourne.digital** artwork without permission
- | Change the colors, dimensions or add your own text/images
+   | Sell any **melbourne.digital** artwork without permission
+   | Change the colors, dimensions or add your own text/images
 
 ```
 
